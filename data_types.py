@@ -1,0 +1,6 @@
+integer_val = int(input("enter the value in integer: "))
+bool_value = bool(input("enter the value in boolean: "))
+char_value = input("enter the value in char: ")
+float_input = float(input("enter the value in float: "))
+double_input = float(input("enter the value in double: "))
+print(integer_val, bool_value, char_value[0], float_input, double_input)
